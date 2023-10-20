@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    padding-top: 50px;
+    width: 100vw;
+    height: auto;
+    background-color: rgb(73, 73, 73);
+}
+
+.container {
+    text-align: center;
+    
+}
+
+.color-picker {
+    margin-bottom: 20px;
+}
+
+.border{
+    border: 1px solid blue;
+    margin: 30px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.color-header {
+    
+    background-color: #a01414;
+    height: 100px;
+    width: 100%;
+}
+
+.text{
+    background-color:aliceblue;
+}
+
+.tipeText{
+margin-left: 100px;
+margin-right: 100px;
+}
+
+.color-footer{
+    background-color: aqua;
+    height: 100px;
+}
+

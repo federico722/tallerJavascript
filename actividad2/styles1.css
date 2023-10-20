@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+
+body{
+    text-align: center;
+    margin: 100px;
+    background-color: antiquewhite;
+
+}
+
+.styles{
+    border: 5px solid rgb(40, 221, 86);
+    background-color: aliceblue;
+    
+}
